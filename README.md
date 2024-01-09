@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anas-yousef
 - 👀 I’m interested in coding and learning new technologies
-- 🌱 I’m currently learning/developing using Flutter/Python
+- 🌱 I’m currently developing using Flutter and Python
 
 <!---
 anas-yousef/anas-yousef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
